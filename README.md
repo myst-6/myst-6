@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rika)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=myst-6)
 
 ![Codewars](https://github.r2v.ch/codewars?user=myst-6&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
